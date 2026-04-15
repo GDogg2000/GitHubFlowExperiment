@@ -13,5 +13,7 @@ public class Main{
 //Adding Feature 3 on main on Github.
 
 // Adding Feature 5 on Github while simultaneosly adding Feature 4 on branch in main.
+
+// Conflict to resolve in gitBash!!!
   
 }
