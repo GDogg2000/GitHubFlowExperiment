@@ -14,10 +14,7 @@ public class Main{
 
 // Adding Feature 5 on Github while simultaneosly adding Feature 4 on branch in main.
 
-<<<<<<< HEAD
 // Conflict to resolve in gitBash!!!
-=======
-  // Creating a conflict -- this was on remote.
->>>>>>> 16460e20d43bfe945ce0ec622d1a6b5548306c46
+
   
 }
